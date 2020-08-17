@@ -1,4 +1,4 @@
-# Convolutional-Neural-Networks-for-Text-Classification
+# Convolutional Neural Networks for Text Classification
 
 ### Aim:
 Build a Convolutional neural network model for sentiment analysis .
